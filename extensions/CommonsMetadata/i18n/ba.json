@@ -1,0 +1,18 @@
+{
+	"@metadata": {
+		"authors": [
+			"Айбикә",
+			"Рустам Нурыев",
+			"З. ӘЙЛЕ"
+		]
+	},
+	"commonsmetadata-desc": "Викимилектәге ҡалыптар йыш ҡулланған, һүрәтләү биттәрендә һаҡланған мәғлүмәтте индереү өсөн \"extmetadata\" һүрәтләү үҙенсәлеген API-модулгә ебәрә",
+	"commonsmetadata-trackingcategory-no-license": "Машина уҡый алырлыҡ лицензияһы булмаған файлдар",
+	"commonsmetadata-trackingcategory-no-license-desc": "Файлдың [{{MediaWiki:Commonsmetadata-doc-url}} машина уҡый алған] лицензия ҡалыбы юҡ.",
+	"commonsmetadata-trackingcategory-no-description": "Машина уҡый алырлыҡ тасуирламаһы булмаған файлдар",
+	"commonsmetadata-trackingcategory-no-description-desc": "Файлдың [{{MediaWiki:Commonsmetadata-doc-url}} машина уҡый алған] аңлатма ҡалыбы юҡ, йәиһә уның тасуирламаһы яҙылмаған.",
+	"commonsmetadata-trackingcategory-no-author": "Машина уҡый алырлыҡ авторҙары булмаған файлдар",
+	"commonsmetadata-trackingcategory-no-author-desc": "Файлдың [{{MediaWiki:Commonsmetadata-doc-url}} машина уҡый алған] аңлатма ҡалыбы юҡ, йәиһә уның «автор» бүлеге тултырылмаған.",
+	"commonsmetadata-trackingcategory-no-source": "Машина уҡый алырлыҡ сығанаҡтары булмаған файлдар",
+	"commonsmetadata-trackingcategory-no-source-desc": "Файлдың [{{MediaWiki:Commonsmetadata-doc-url}} машина уҡый алған] аңлатма ҡалыбы юҡ, йәиһә уның «сығанаҡ» бүлеге яҙылмаған."
+}

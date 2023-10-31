@@ -1,0 +1,22 @@
+{
+	"@metadata": {
+		"authors": [
+			"Amire80",
+			"Guycn2",
+			"דגש",
+			"לואיקה",
+			"ערן"
+		]
+	},
+	"disambig-desc": "הוספת התג <code><nowiki>__DISAMBIG__</nowiki></code> כדי לסמן [[Special:DisambiguationPages|דפי פירושונים]]",
+	"disambiguationpages": "דפי פירושונים",
+	"disambiguationpages-summary": "זוהי רשימה של כל דפי הפירושונים ב{{GRAMMAR:תחילית|{{SITENAME}}}}.<br />\nדף מוגדר כדף פירושונים אם הוא מכיל את התג <code><nowiki>__DISAMBIG__</nowiki></code>.",
+	"disambiguationpagelinks": "דפים המקשרים לדפי פירושונים",
+	"disambiguationpagelinks-summary": "הדפים הבאים מכילים לפחות קישור אחד לדף פירושונים.\nלרוב רצוי לתקן את הקישור לדף עם הפירוש המתאים.<br />\nדף מוגדר כדף פירושונים כשהוא מכיל את התג <code><nowiki>__DISAMBIG__</nowiki></code> (או כינוי שווה־ערך).",
+	"visualeditor-dialog-meta-settings-disambiguation-label": "זהו דף פירושונים",
+	"tag-disambiguator-link-added": "קישורים לדפי פירושונים",
+	"tag-disambiguator-link-added-description": "עריכות שמוסיפות קישורים לדפי פירושונים",
+	"disambiguator-notification-question": "האם {{GENDER:|תרצה|תרצי|ברצונך}} להפוך את הקישור הזה למדויק יותר?",
+	"disambiguator-notification-summary": "קישרת לדף \"[[$1]]\" ש<strong>אינו</strong> דף תוכן אלא רשימת [https://mediawiki.org/wiki/Special:MyLanguage/Help:Extension:Disambiguator נושאים בעלי שמות דומים].",
+	"disambiguator-review-link": "סקירת קישור"
+}

@@ -1,0 +1,22 @@
+{
+	"@metadata": {
+		"authors": [
+			"Base",
+			"DDPAT",
+			"DixonD",
+			"Ice bulldog",
+			"Ата"
+		]
+	},
+	"disambig-desc": "Додає магічне слово <code><nowiki>__DISAMBIG__</nowiki></code> для позначення [[Special:DisambiguationPages|сторінок вирішення неоднозначності]]",
+	"disambiguationpages": "Сторінки вирішення неоднозначності",
+	"disambiguationpages-summary": "Далі наводиться список всіх сторінок вирішення неоднозначності у {{grammar:locative|{{SITENAME}}}}.<br />\nСторінка вважається сторінкою вирішення неоднозначності, якщо вона містить магічне слово <code><nowiki>__DISAMBIG__</nowiki></code> (або його відповідний псевдонім).",
+	"disambiguationpagelinks": "Сторінки, що посилаються на сторінки вирішення неоднозначності",
+	"disambiguationpagelinks-summary": "Далі наводиться список сторінок, що містять щонайменше одне посилання на сторінку вирішення неоднозначності.\nЦі сторінки можуть потребувати натомість посилання на сторінку, що підходить більше.<br />\nСторінка вважається сторінкою вирішення неоднозначності, якщо вона містить магічне слово <code><nowiki>__DISAMBIG__</nowiki></code> (або його відповідний псевдонім).",
+	"visualeditor-dialog-meta-settings-disambiguation-label": "Це сторінка вирішення неоднозначності",
+	"tag-disambiguator-link-added": "Посилання на сторінки неоднозначності",
+	"tag-disambiguator-link-added-description": "Редагування, що додають посилання на сторінки вирішення неоднозначності",
+	"disambiguator-notification-question": "Хочете зробити це посилання більш конкретним?",
+	"disambiguator-notification-summary": "Ви послалися на «[[$1]]», яка є <strong>не</strong> сторінкою вмісту, а списком [https://mediawiki.org/wiki/Special:MyLanguage/Help:Extension:Disambiguator тем зі схожими назвами].",
+	"disambiguator-review-link": "Переглянути посилання"
+}

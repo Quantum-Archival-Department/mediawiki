@@ -1,0 +1,20 @@
+{
+	"@metadata": {
+		"authors": [
+			"Kareyac",
+			"Togaed",
+			"Սերգեյ Սաֆարյան"
+		]
+	},
+	"checkuser-search": "Որոնել օգտվողի ստուգման մատյանի գրառումներում",
+	"checkuser-search-submit": "Որոնել",
+	"checkuser-investigateblock-options": "Լրացուցիչ ընտրանքներ",
+	"checkuser-investigate-subtitle-block-button-label": "Արգելափակում",
+	"checkuser-investigate-subtitle-cancel-button-label": "Չեղարկել",
+	"checkuser-investigate-subtitle-continue-button-label": "Շարունակել",
+	"checkuser-investigate-preliminary-table-header-groups": "Խմբեր",
+	"checkuser-investigate-preliminary-table-header-name": "Մասնակցային անուն",
+	"checkuser-investigate-preliminary-table-header-wiki": "Վիքի",
+	"checkuser-investigate-filters-legend": "Զտիչներ",
+	"checkuser-investigate-compare-table-header-username": "Մասնակցային անուն"
+}

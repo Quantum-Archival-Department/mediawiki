@@ -1,0 +1,34 @@
+{
+	"@metadata": {
+		"authors": [
+			"Amire80",
+			"JHeydar",
+			"Patriot Kur",
+			"QeneralĞasım",
+			"Vugar 1981",
+			"Гусейн"
+		]
+	},
+	"babel": "Babil ištirokəkə məlumot",
+	"babel-desc": "Zijod kardejdə analiz kardej funksijə <code>#babel</code>, haštejdə avtomatik soxte ǧysm de zyvonon barədə məlumoti ijən de šəroiti čo nymunəjon dəxyl karde.",
+	"babel-url": "Project:Babil",
+	"babel-footer-url": ":Category:Babil - Ištirokəkon de zyvonon",
+	"babel-autocreate-reason": "Сәһифә автоматик сохте [[$1|Babil]] тиспирәдә.",
+	"babel-autocreate-text-levels": "Ištirokəkon ce kategorijəku išorə kardyšone bo $2 zyvoni žygo  $1 zyne səvijə.",
+	"babel-autocreate-text-main": "Ištirokəkon by kategorijədə $1 zyvoni zyne išorə kardyšone.",
+	"babel-0": "Yn ištirokəkə [[$1|zynejdəni]] [[$2|$3]] (ja ve cətin dərədejdə).",
+	"babel-1": "Yn ištirokəkə [[$1|zəif]] zynejdə [[$2|$3]].",
+	"babel-2": "Yn ištirokəkə [[$1|mijonə səvijədə]] zynejdə [[$2|$3]].",
+	"babel-3": "Yn ištirokəkə [[$1|cok]] zynejdə [[$2|$3]].",
+	"babel-4": "Yn ištirokəkə bənə [[$1|moə zyvoni]] zynejdə [[$2|$3]].",
+	"babel-5": "Yn ištirokəkə [[$1|pešəkorə səvijədə]] zynejdə [[$2|$3]].",
+	"babel-N": "Bo yn ištirokəkə [[$2|$3]] [[$1|moə zyvone]].",
+	"babel-0-n": "Yn ištirokəkə [[$1|zynejdəni]] [[$2|Tolyši]] (jaanki cətin dərəsejdə).",
+	"babel-1-n": "Yn ištirokəkə [[$1|zəif]] zynejdə [[$2|Tolyši]].",
+	"babel-2-n": "Yn ištirokəkə [[$1|mijonə səvijədə]] zynejdə [[$2|Tolyšə zyvoni]].",
+	"babel-3-n": "Yn ištirokəkə [[$1|cok]] zynejdə [[$2|Tolyšə zyvoni]].",
+	"babel-4-n": "Yn ištirokəkə bənə [[$1|moə zyvoni]] zynejdə [[$2|Tolyšə zyvoni]].",
+	"babel-5-n": "Yn ištirokəkə [[$1|pešəkor səvijədə]] zynejdə [[$2|Tolıyšə zyvoni]].",
+	"babel-N-n": "Bo yn ištirokəkə [[$2|Tolyšə zyvon]] [[$1|moə zyvone]].",
+	"babel-footer": "Ištirokəkon zyvononədə"
+}

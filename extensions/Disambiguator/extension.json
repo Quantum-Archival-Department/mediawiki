@@ -1,0 +1,131 @@
+{
+	"name": "Disambiguator",
+	"version": "1.4",
+	"author": [
+		"Ryan Kaldari"
+	],
+	"url": "https://www.mediawiki.org/wiki/Extension:Disambiguator",
+	"descriptionmsg": "disambig-desc",
+	"license-name": "MIT",
+	"requires": {
+		"MediaWiki": ">= 1.39.0"
+	},
+	"type": "other",
+	"ExtensionMessagesFiles": {
+		"DisambiguatorAlias": "Disambiguator.i18n.alias.php",
+		"DisambiguatorMagic": "Disambiguator.i18n.magic.php"
+	},
+	"Hooks": {
+		"GetDoubleUnderscoreIDs": "MediaWiki\\Extension\\Disambiguator\\Hooks::onGetDoubleUnderscoreIDs",
+		"wgQueryPages": "MediaWiki\\Extension\\Disambiguator\\Hooks::onwgQueryPages",
+		"AncientPagesQuery": "MediaWiki\\Extension\\Disambiguator\\Hooks::onAncientPagesQuery",
+		"LonelyPagesQuery": "MediaWiki\\Extension\\Disambiguator\\Hooks::onLonelyPagesQuery",
+		"ShortPagesQuery": "MediaWiki\\Extension\\Disambiguator\\Hooks::onShortPagesQuery",
+		"RandomPageQuery": "MediaWiki\\Extension\\Disambiguator\\Hooks::onRandomPageQuery",
+		"GetLinkColours": "MediaWiki\\Extension\\Disambiguator\\Hooks::onGetLinkColours",
+		"LinksUpdateComplete": "main",
+		"ListDefinedTags": "main",
+		"ChangeTagsListActive": "main",
+		"RecentChange_save": "main",
+		"EditPage::showEditForm:initial": "main"
+	},
+	"HookHandlers": {
+		"main": {
+			"class": "MediaWiki\\Extension\\Disambiguator\\Hooks",
+			"services": [
+				"DisambiguatorLookup",
+				"MainConfig"
+			]
+		}
+	},
+	"MessagesDirs": {
+		"Disambiguator": [
+			"i18n"
+		]
+	},
+	"ResourceModules": {
+		"ext.disambiguator": {
+			"es6": true,
+			"dependencies": [
+				"mediawiki.api",
+				"mediawiki.jqueryMsg",
+				"mediawiki.notification"
+			],
+			"packageFiles": [
+				"disambiguator/ext.disambiguator.js"
+			],
+			"styles": [
+				"disambiguator/ext.disambiguator.less"
+			],
+			"messages": [
+				"disambiguator-notification-question",
+				"disambiguator-notification-summary",
+				"disambiguator-review-link"
+			],
+			"targets": [
+				"desktop"
+			]
+		},
+		"ext.disambiguator.visualEditor": {
+			"scripts": [
+				"visualEditorIntegration.js"
+			],
+			"messages": [
+				"visualeditor-dialog-meta-settings-disambiguation-label"
+			],
+			"dependencies": [
+				"ext.visualEditor.mwmeta",
+				"ext.visualEditor.mediawiki"
+			],
+			"targets": [
+				"desktop",
+				"mobile"
+			]
+		}
+	},
+	"ResourceFileModulePaths": {
+		"localBasePath": "modules",
+		"remoteExtPath": "Disambiguator/modules"
+	},
+	"config": {
+		"DisambiguatorIndicateLinks": {
+			"value": true
+		},
+		"DisambiguatorNotifications": {
+			"value": false,
+			"description": "Show a warning notification after the user types a link to a disambiguation page"
+		}
+	},
+	"SpecialPages": {
+		"DisambiguationPages": {
+			"class": "MediaWiki\\Extension\\Disambiguator\\Specials\\SpecialDisambiguationPages",
+			"services": [
+				"LinkBatchFactory",
+				"DBLoadBalancer"
+			]
+		},
+		"DisambiguationPageLinks": {
+			"class": "MediaWiki\\Extension\\Disambiguator\\Specials\\SpecialDisambiguationPageLinks",
+			"services": [
+				"NamespaceInfo",
+				"LinkBatchFactory",
+				"ContentHandlerFactory",
+				"DBLoadBalancer"
+			]
+		}
+	},
+	"AutoloadNamespaces": {
+		"MediaWiki\\Extension\\Disambiguator\\": "includes/"
+	},
+	"ServiceWiringFiles": [
+		"includes/ServiceWiring.php"
+	],
+	"attributes": {
+		"VisualEditor": {
+			"PluginModules": [
+				"ext.disambiguator.visualEditor"
+			]
+		}
+	},
+	"manifest_version": 2
+}

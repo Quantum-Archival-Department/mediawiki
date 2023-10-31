@@ -1,0 +1,17 @@
+{
+	"@metadata": {
+		"authors": [
+			"Lancine.kounfantoh.fofana"
+		]
+	},
+	"disambig-desc": "ߘߎ߲ߛߓߍ <code><nowiki>__ߕߐ߯ߢߐ߲߮__</nowiki></code> ߝߙߊ߬ ߞߊ߬ [[Special:DisambiguationPages|disambiguation pages]] ߣߐ߬ߣߐ߬",
+	"disambiguationpages": "ߞߐߜߍ߫ ߕߐ߯ߢߐ߲߯ߡߊ ߟߎ߬",
+	"disambiguationpages-summary": "ߢߌ߲߬ ߠߎ߬ ߦߋ߫ ߕߐ߯ߢߐ߲߯ߡߊ߫ ߞߐߜߍ ߟߎ߬ ߛߙߍߘߍ ߟߋ߬ ߘߌ߫ {{SITENAME}} ߞߊ߲߬.<code>ߞߐߜߍ ߦߋ߫ ߖߊ߬ߕߋ߬ ߟߊ߫ ߕߐ߯ߢߐ߲߯ߡߊ߫ ߞߐߜߍ ߘߌ߫ ߟߋ߬ ߣߌ߫ ߝߎ߲ߓߟߐ ߦߴߊ߬ ߘߐ߫</code><nowiki>__DISAMBIG__</nowiki> </code> (ߥߟߴߊ߬ ߞߘߐߢߐ߲߮ ߓߍ߲߬ߣߍ߲߫)",
+	"disambiguationpagelinks": "ߞߐߜߍ ߡߍ߲ ߠߎ߬ ߜߋ߲߭ߞߘߎ߬ߣߍ߲߫ ߦߋ߫ ߕߐ߯ߢߐ߲߯ߡߊ߫ ߞߐߜߍ ߟߎ߬ ߟߊ߫",
+	"visualeditor-dialog-meta-settings-disambiguation-label": "ߞߐߜߍ߫ ߕߐ߯ߢߐ߲߯ߡߊ ߟߋ߬ ߦߋ߫ ߣߌ߲߬ ߘߌ߫",
+	"tag-disambiguator-link-added": "ߛߘߌ߬ߜߋ߲߬ ߕߐ߯ߢߐ߲߯ߡߊ ߟߎ߬",
+	"tag-disambiguator-link-added-description": "ߡߊ߬ߦߟߍ߬ߡߊ߲߬ߠߌ߲ ߡߍ߲ ߠߎ߬ ߞߊ߬ ߛߘߌ߬ߜߋ߲ ߠߎ߬ ߝߙߊ߬ ߕߐ߯ߢߐ߲߯ߡߊ߫ ߞߐߜߍ ߟߎ߬ ߘߐ߫",
+	"disambiguator-notification-question": "ߌ ߦߴߊ߬ ߝߍ߬ ߓߊ߬ ߞߊ߬ ߛߘߌ߬ߜߋ߲ ߣߌ߲߬ ߞߍ߫ ߞߙߍߞߙߍߣߍ߲ ߖߍ߬ߘߍߖߍ߬ߘߍ ߘߌ߫؟",
+	"disambiguator-notification-summary": "ߌ ߓߘߊ߫ ߛߘߌ߬ߜߋ߲ ߓߌ߬ߟߊ߬ \"[[$1]]\" ߡߊ߬ ߏ߬ ߡߍ߲ <strong>ߕߍ߫</strong> ߞߣߐߘߐ߫ ߞߐߜߍ ߝߋ߲߫ ߘߌ߫߸ ߒ߬ߞߊ߬ [https://mediawiki.org/wiki/Special:MyLanguage/Help:Extension: ߕߐ߯ߢߐ߲߯ߡߊ߫ ߝߛߌ߫ ߘߌ߫ ߕߐ߯ ߡߎߣߎ߲ߣߍ߲ ߠߎ߬ ߘߌ߫].",
+	"disambiguator-review-link": "ߛߘߌ߬ߜߋ߲ ߝߛߍ߬ߝߛߍ߫"
+}

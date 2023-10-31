@@ -1,0 +1,23 @@
+{
+	"@metadata": {
+		"authors": [
+			"Anakmalaysia",
+			"Chokixxcool"
+		]
+	},
+	"getdata": "Dapatkan data",
+	"externaldata-desc": "Membolehkan pengambilan data berstruktur dari URL luaran, pangkalan data atau sumber-sumber lain",
+	"externaldata-ldap-unable-to-connect": "Tidak dapat bersambung dengan $1",
+	"externaldata-xml-error": "Ralat XML: $1 di baris $2",
+	"externaldata-web-invalid-format": "Format tidak sah: \"$1\"",
+	"externaldata-db-incomplete-information": "Ralat: Maklumat tidak lengkap untuk ID pelayan ini.",
+	"externaldata-db-could-not-get-url": "URL tidak dapat diterima selepas $1 cubaan.",
+	"externaldata-db-unknown-type": "Ralat: Jenis pangkalan data tidak dikenali.",
+	"externaldata-db-could-not-connect": "Ralat: Tidak dapat bersambung dengan pangkalan data.",
+	"externaldata-db-no-return-values": "Ralat: Tiada nilai pulangan yang ditentukan.",
+	"externaldata-db-invalid-query": "Pertanyaan tidak sah.",
+	"externaldata-mongodb-unknown-collection": "Ralat: Koleksi MongoDB tidak dikenali.",
+	"externaldata-exe-shell-disabled": "Ralat: Admin PHP telah menyahaktifkan capaian ke petala.",
+	"externaldata-exe-incomplete-information": "Ralat: Maklumat tidak lengkap untuk ID arahan ini $1 ($2)",
+	"externaldata-exe-error": "Ralat: Program $1 mengembalikan kod keluar $2. Mesej: $3"
+}

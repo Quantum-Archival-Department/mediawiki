@@ -1,0 +1,14 @@
+{
+	"@metadata": {
+		"authors": [
+			"Kiathy",
+			"Teitei Para"
+		]
+	},
+	"externaldata-db-could-not-get-url": "URL $1 to thei vei, $2 {{PLURAL:$2|try|tries}} khai tawh.",
+	"externaldata-post-failed": "$1 lâ ahawpa POST cha hlaotloh vei: $2.",
+	"externaldata-url-unknown-error": "URL $1 tawh data lapa a châ nota pahno leipa ado leina",
+	"externaldata-parsing-html-failed": "HTML a pachhaih thei vei",
+	"externaldata-caught-exception-parsing-html": "HTML pachhaihna liata pipasina. Pâna mesei cha &quot;$1&quot; a châ.",
+	"externaldata-error-converting-css-to-xpath": "Caught exception converting CSS selector $1 to XPath:\n$2"
+}

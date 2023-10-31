@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ruleset>
+	<rule ref="./vendor/mediawiki/mediawiki-codesniffer/MediaWiki">
+		<!-- Until PHPCS sorts itself out -->
+		<properties>
+			<property name="allowedPrefixes" type="array">
+				<element value="edg" />
+				<element value="wg" />
+			</property>
+		</properties>
+		<exclude name="MediaWiki.WhiteSpace.SpaceBeforeSingleLineComment.NewLineComment" />
+	</rule>
+	<!-- RedundantVarName is currently too sensitive, incompatible with default Doxygen. -->
+	<rule ref="MediaWiki.Commenting.RedundantVarName.Found">
+		<severity>0</severity>
+	</rule>
+	<file>.</file>
+	<arg name="extensions" value="php"/>
+	<arg name="encoding" value="UTF-8"/>
+</ruleset>
